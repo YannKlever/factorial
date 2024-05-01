@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 47, 255);
+}
+.stirling{
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#titulo{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    padding: 2% 2%;
+}
+#cajares{
+    padding: 5% 10%;
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+}
